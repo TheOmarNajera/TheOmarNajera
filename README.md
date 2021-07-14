@@ -25,3 +25,7 @@ Omar = {
                       }
 }
 ```
+
+### Certificates
+
+You can see all my [Certificates](https://github.com/TheOmarNajera/certificates) here: https://github.com/TheOmarNajera/certificates
